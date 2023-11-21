@@ -6,20 +6,19 @@ This repository encompasses five Python programs catering to various functionali
 
 Programs Included:
 
-Calculator Program (Tkinter-based)
+Calculator Program 
 
 A user-friendly calculator application utilizing the Tkinter module for its graphical interface.
-To-Do List Program (Tkinter-based)
+To-Do List Program 
 
 An interactive to-do list application built with Tkinter for managing tasks. Users can add, remove, and mark tasks as complete.
-Password Generator (Non-Tkinter)
+Password Generator 
 
 A password generator capable of creating random passwords of specified lengths and saving them on your computer.
-Contact Book Program (Tkinter-based)
+Contact Book Program 
 
 A contact book application leveraging Tkinter for managing contacts. Users can add, view, edit, and delete contacts.
-Rock Paper Scissors Game (Non-Tkinter)
-
+Rock Paper Scissors Game 
 A simple command-line-based rock-paper-scissors game allowing users to play against the computer.
 Usage:
 
