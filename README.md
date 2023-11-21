@@ -1,3 +1,7 @@
+# CODSOFT
+Internship
+
+
 This repository encompasses five Python programs catering to various functionalities:
 
 Programs Included:
@@ -35,5 +39,3 @@ Rock Paper Scissors Game:
 
 Play the game by running rock_paper_scissors.py in the terminal. Follow the instructions provided to choose between rock, paper, or scissors and play against the computer.
 
-# CODSOFT
-Internship
